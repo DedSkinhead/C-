@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr25 MAX\pr25 MAX\bin\Debug\pr25 MAX.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr25 MAX\pr25 MAX\bin\Debug\pr25 MAX.exe
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr25 MAX\pr25 MAX\bin\Debug\pr25 MAX.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr25 MAX\pr25 MAX\obj\Debug\pr25 MAX.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr25 MAX\pr25 MAX\obj\Debug\pr25 MAX.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr25 MAX\pr25 MAX\obj\Debug\pr25 MAX.exe
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr25 MAX\pr25 MAX\obj\Debug\pr25 MAX.pdb

@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr22 MAX\pr22 MAX\bin\Debug\pr22 MAX.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr22 MAX\pr22 MAX\bin\Debug\pr22 MAX.exe
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr22 MAX\pr22 MAX\bin\Debug\pr22 MAX.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr22 MAX\pr22 MAX\obj\Debug\pr22 MAX.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr22 MAX\pr22 MAX\obj\Debug\pr22 MAX.exe
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr22 MAX\pr22 MAX\obj\Debug\pr22 MAX.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr22 MAX\pr22 MAX\obj\Debug\pr22 MAX.csprojAssemblyReference.cache

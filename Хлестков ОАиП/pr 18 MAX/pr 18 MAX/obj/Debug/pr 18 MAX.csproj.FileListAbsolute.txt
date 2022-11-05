@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr 18 MAX\pr 18 MAX\bin\Debug\pr 18 MAX.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr 18 MAX\pr 18 MAX\bin\Debug\pr 18 MAX.exe
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr 18 MAX\pr 18 MAX\bin\Debug\pr 18 MAX.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr 18 MAX\pr 18 MAX\obj\Debug\pr 18 MAX.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr 18 MAX\pr 18 MAX\obj\Debug\pr 18 MAX.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr 18 MAX\pr 18 MAX\obj\Debug\pr 18 MAX.exe
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr 18 MAX\pr 18 MAX\obj\Debug\pr 18 MAX.pdb

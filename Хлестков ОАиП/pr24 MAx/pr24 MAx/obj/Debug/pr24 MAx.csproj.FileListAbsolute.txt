@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr24 MAx\pr24 MAx\obj\Debug\pr24 MAx.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr24 MAx\pr24 MAx\obj\Debug\pr24 MAx.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr24 MAx\pr24 MAx\bin\Debug\pr24 MAx.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr24 MAx\pr24 MAx\bin\Debug\pr24 MAx.exe
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr24 MAx\pr24 MAx\bin\Debug\pr24 MAx.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr24 MAx\pr24 MAx\obj\Debug\pr24 MAx.exe
+C:\Users\koten\OneDrive\Рабочий стол\Хлестков ОАиП\pr24 MAx\pr24 MAx\obj\Debug\pr24 MAx.pdb
