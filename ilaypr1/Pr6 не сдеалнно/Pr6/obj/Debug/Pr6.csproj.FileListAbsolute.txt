@@ -1,0 +1,13 @@
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6\Pr6\bin\Debug\Pr6.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6\Pr6\bin\Debug\Pr6.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6\Pr6\bin\Debug\Pr6.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6\Pr6\obj\Debug\Pr6.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6\Pr6\obj\Debug\Pr6.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6\Pr6\obj\Debug\Pr6.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6 не сдеалнно\Pr6\bin\Debug\Pr6.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6 не сдеалнно\Pr6\bin\Debug\Pr6.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6 не сдеалнно\Pr6\bin\Debug\Pr6.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6 не сдеалнно\Pr6\obj\Debug\Pr6.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6 не сдеалнно\Pr6\obj\Debug\Pr6.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6 не сдеалнно\Pr6\obj\Debug\Pr6.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr6 не сдеалнно\Pr6\obj\Debug\Pr6.pdb
