@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr22\pr22\bin\Debug\pr22.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr22\pr22\bin\Debug\pr22.exe
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr22\pr22\bin\Debug\pr22.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr22\pr22\obj\Debug\pr22.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr22\pr22\obj\Debug\pr22.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr22\pr22\obj\Debug\pr22.exe
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr22\pr22\obj\Debug\pr22.pdb
