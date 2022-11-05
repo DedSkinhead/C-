@@ -1,0 +1,14 @@
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr7\Pr7\obj\Debug\Pr7.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr7\Pr7\obj\Debug\Pr7.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr7\Pr7\bin\Debug\Pr7.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr7\Pr7\bin\Debug\Pr7.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr7\Pr7\bin\Debug\Pr7.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr7\Pr7\obj\Debug\Pr7.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr7\Pr7\obj\Debug\Pr7.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr7 1 задание\Pr7\bin\Debug\Pr7.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr7 1 задание\Pr7\bin\Debug\Pr7.exe
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr7 1 задание\Pr7\bin\Debug\Pr7.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr7 1 задание\Pr7\obj\Debug\Pr7.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr7 1 задание\Pr7\obj\Debug\Pr7.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr7 1 задание\Pr7\obj\Debug\Pr7.exe
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr7 1 задание\Pr7\obj\Debug\Pr7.pdb
