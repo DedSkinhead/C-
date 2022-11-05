@@ -1,0 +1,14 @@
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus15\Rus15\bin\Debug\Rus15.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus15\Rus15\bin\Debug\Rus15.exe
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus15\Rus15\bin\Debug\Rus15.pdb
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus15\Rus15\obj\Debug\Rus15.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus15\Rus15\obj\Debug\Rus15.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus15\Rus15\obj\Debug\Rus15.exe
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus15\Rus15\obj\Debug\Rus15.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus15\Rus15\bin\Debug\Rus15.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus15\Rus15\bin\Debug\Rus15.exe
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus15\Rus15\bin\Debug\Rus15.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus15\Rus15\obj\Debug\Rus15.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus15\Rus15\obj\Debug\Rus15.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus15\Rus15\obj\Debug\Rus15.exe
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus15\Rus15\obj\Debug\Rus15.pdb

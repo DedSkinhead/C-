@@ -1,0 +1,14 @@
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus13\Rus13\bin\Debug\Rus13.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus13\Rus13\bin\Debug\Rus13.exe
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus13\Rus13\bin\Debug\Rus13.pdb
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus13\Rus13\obj\Debug\Rus13.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus13\Rus13\obj\Debug\Rus13.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus13\Rus13\obj\Debug\Rus13.exe
+C:\Users\koten\OneDrive\Рабочий стол\raboty\Rus13\Rus13\obj\Debug\Rus13.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus13\Rus13\bin\Debug\Rus13.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus13\Rus13\bin\Debug\Rus13.exe
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus13\Rus13\bin\Debug\Rus13.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus13\Rus13\obj\Debug\Rus13.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus13\Rus13\obj\Debug\Rus13.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus13\Rus13\obj\Debug\Rus13.exe
+C:\Users\koten\OneDrive\Рабочий стол\Руслан ПР\Rus13\Rus13\obj\Debug\Rus13.pdb
