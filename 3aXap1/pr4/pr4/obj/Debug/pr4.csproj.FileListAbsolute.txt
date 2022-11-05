@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr4\pr4\bin\Debug\pr4.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr4\pr4\bin\Debug\pr4.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr4\pr4\bin\Debug\pr4.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr4\pr4\obj\Debug\pr4.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr4\pr4\obj\Debug\pr4.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr4\pr4\obj\Debug\pr4.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr4\pr4\obj\Debug\pr4.pdb

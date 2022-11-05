@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr2\pr2\bin\Debug\pr2.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr2\pr2\bin\Debug\pr2.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr2\pr2\bin\Debug\pr2.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr2\pr2\obj\Debug\pr2.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr2\pr2\obj\Debug\pr2.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr2\pr2\obj\Debug\pr2.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr2\pr2\obj\Debug\pr2.pdb

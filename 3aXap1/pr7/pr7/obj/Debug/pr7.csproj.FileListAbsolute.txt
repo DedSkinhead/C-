@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr7\pr7\bin\Debug\pr7.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr7\pr7\bin\Debug\pr7.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr7\pr7\bin\Debug\pr7.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr7\pr7\obj\Debug\pr7.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr7\pr7\obj\Debug\pr7.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr7\pr7\obj\Debug\pr7.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr7\pr7\obj\Debug\pr7.pdb

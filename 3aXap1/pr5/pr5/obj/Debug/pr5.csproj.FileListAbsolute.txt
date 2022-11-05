@@ -1,0 +1,6 @@
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr5\pr5\bin\Debug\pr5.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr5\pr5\bin\Debug\pr5.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr5\pr5\bin\Debug\pr5.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr5\pr5\obj\Debug\pr5.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr5\pr5\obj\Debug\pr5.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr5\pr5\obj\Debug\pr5.pdb
