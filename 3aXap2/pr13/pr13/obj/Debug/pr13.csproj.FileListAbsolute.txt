@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr13\pr13\bin\Debug\pr13.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr13\pr13\bin\Debug\pr13.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr13\pr13\bin\Debug\pr13.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr13\pr13\obj\Debug\pr13.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr13\pr13\obj\Debug\pr13.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr13\pr13\obj\Debug\pr13.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr13\pr13\obj\Debug\pr13.pdb

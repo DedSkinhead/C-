@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr8\pr8\bin\Debug\pr8.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr8\pr8\bin\Debug\pr8.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr8\pr8\bin\Debug\pr8.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr8\pr8\obj\Debug\pr8.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr8\pr8\obj\Debug\pr8.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr8\pr8\obj\Debug\pr8.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr8\pr8\obj\Debug\pr8.pdb

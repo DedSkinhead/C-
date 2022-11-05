@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr9\pr9\bin\Debug\pr9.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr9\pr9\bin\Debug\pr9.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr9\pr9\bin\Debug\pr9.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr9\pr9\obj\Debug\pr9.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr9\pr9\obj\Debug\pr9.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr9\pr9\obj\Debug\pr9.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr9\pr9\obj\Debug\pr9.csprojAssemblyReference.cache

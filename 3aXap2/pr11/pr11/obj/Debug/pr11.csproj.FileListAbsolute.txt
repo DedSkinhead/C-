@@ -1,0 +1,6 @@
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr11\pr11\obj\Debug\pr11.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr11\pr11\bin\Debug\pr11.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr11\pr11\bin\Debug\pr11.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr11\pr11\bin\Debug\pr11.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr11\pr11\obj\Debug\pr11.exe
+C:\Users\koten\OneDrive\Рабочий стол\Захар\pr11\pr11\obj\Debug\pr11.pdb
