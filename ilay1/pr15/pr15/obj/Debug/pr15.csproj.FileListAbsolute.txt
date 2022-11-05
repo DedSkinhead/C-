@@ -1,0 +1,14 @@
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr15\pr15\bin\Debug\pr15.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr15\pr15\bin\Debug\pr15.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr15\pr15\bin\Debug\pr15.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr15\pr15\obj\Debug\pr15.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr15\pr15\obj\Debug\pr15.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr15\pr15\obj\Debug\pr15.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr15\pr15\obj\Debug\pr15.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr15\pr15\bin\Debug\pr15.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr15\pr15\bin\Debug\pr15.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr15\pr15\bin\Debug\pr15.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr15\pr15\obj\Debug\pr15.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr15\pr15\obj\Debug\pr15.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr15\pr15\obj\Debug\pr15.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr15\pr15\obj\Debug\pr15.pdb

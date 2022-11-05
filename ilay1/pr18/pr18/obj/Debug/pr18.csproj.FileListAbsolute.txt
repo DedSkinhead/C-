@@ -1,0 +1,14 @@
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr18\pr18\bin\Debug\pr18.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr18\pr18\bin\Debug\pr18.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr18\pr18\bin\Debug\pr18.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr18\pr18\obj\Debug\pr18.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr18\pr18\obj\Debug\pr18.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr18\pr18\obj\Debug\pr18.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья 15-25\pr18\pr18\obj\Debug\pr18.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr18\pr18\bin\Debug\pr18.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr18\pr18\bin\Debug\pr18.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr18\pr18\bin\Debug\pr18.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr18\pr18\obj\Debug\pr18.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr18\pr18\obj\Debug\pr18.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr18\pr18\obj\Debug\pr18.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья 15-25\pr18\pr18\obj\Debug\pr18.pdb
