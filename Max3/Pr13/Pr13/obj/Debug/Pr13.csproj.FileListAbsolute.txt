@@ -1,0 +1,14 @@
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr13\Pr13\bin\Debug\Pr13.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr13\Pr13\bin\Debug\Pr13.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr13\Pr13\bin\Debug\Pr13.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr13\Pr13\obj\Debug\Pr13.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr13\Pr13\obj\Debug\Pr13.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr13\Pr13\obj\Debug\Pr13.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr13\Pr13\obj\Debug\Pr13.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr13\Pr13\obj\Debug\Pr13.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr13\Pr13\obj\Debug\Pr13.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr13\Pr13\obj\Debug\Pr13.exe
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr13\Pr13\obj\Debug\Pr13.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr13\Pr13\bin\Debug\Pr13.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr13\Pr13\bin\Debug\Pr13.exe
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr13\Pr13\bin\Debug\Pr13.pdb

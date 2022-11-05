@@ -1,0 +1,14 @@
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr9\Pr9\bin\Debug\Pr9.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr9\Pr9\bin\Debug\Pr9.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr9\Pr9\bin\Debug\Pr9.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr9\Pr9\obj\Debug\Pr9.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr9\Pr9\obj\Debug\Pr9.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr9\Pr9\obj\Debug\Pr9.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr9\Pr9\obj\Debug\Pr9.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr9\Pr9\bin\Debug\Pr9.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr9\Pr9\bin\Debug\Pr9.exe
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr9\Pr9\bin\Debug\Pr9.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr9\Pr9\obj\Debug\Pr9.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr9\Pr9\obj\Debug\Pr9.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr9\Pr9\obj\Debug\Pr9.exe
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr9\Pr9\obj\Debug\Pr9.pdb
