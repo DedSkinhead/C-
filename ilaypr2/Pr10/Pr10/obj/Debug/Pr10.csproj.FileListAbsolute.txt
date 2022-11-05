@@ -1,0 +1,14 @@
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr10\Pr10\bin\Debug\Pr10.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr10\Pr10\bin\Debug\Pr10.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr10\Pr10\bin\Debug\Pr10.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr10\Pr10\obj\Debug\Pr10.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr10\Pr10\obj\Debug\Pr10.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr10\Pr10\obj\Debug\Pr10.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr10\Pr10\obj\Debug\Pr10.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья Пр\Pr10\Pr10\bin\Debug\Pr10.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья Пр\Pr10\Pr10\bin\Debug\Pr10.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья Пр\Pr10\Pr10\bin\Debug\Pr10.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья Пр\Pr10\Pr10\obj\Debug\Pr10.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья Пр\Pr10\Pr10\obj\Debug\Pr10.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья Пр\Pr10\Pr10\obj\Debug\Pr10.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Илья Пр\Pr10\Pr10\obj\Debug\Pr10.pdb
