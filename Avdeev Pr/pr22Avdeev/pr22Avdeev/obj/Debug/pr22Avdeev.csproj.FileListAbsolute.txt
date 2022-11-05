@@ -1,0 +1,6 @@
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\pr22Avdeev\pr22Avdeev\bin\Debug\pr22Avdeev.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\pr22Avdeev\pr22Avdeev\bin\Debug\pr22Avdeev.exe
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\pr22Avdeev\pr22Avdeev\bin\Debug\pr22Avdeev.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\pr22Avdeev\pr22Avdeev\obj\Debug\pr22Avdeev.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\pr22Avdeev\pr22Avdeev\obj\Debug\pr22Avdeev.exe
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\pr22Avdeev\pr22Avdeev\obj\Debug\pr22Avdeev.pdb

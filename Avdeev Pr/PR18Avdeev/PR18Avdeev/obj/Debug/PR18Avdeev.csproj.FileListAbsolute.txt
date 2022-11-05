@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\PR18Avdeev\PR18Avdeev\bin\Debug\PR18Avdeev.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\PR18Avdeev\PR18Avdeev\bin\Debug\PR18Avdeev.exe
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\PR18Avdeev\PR18Avdeev\bin\Debug\PR18Avdeev.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\PR18Avdeev\PR18Avdeev\obj\Debug\PR18Avdeev.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\PR18Avdeev\PR18Avdeev\obj\Debug\PR18Avdeev.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\PR18Avdeev\PR18Avdeev\obj\Debug\PR18Avdeev.exe
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\PR18Avdeev\PR18Avdeev\obj\Debug\PR18Avdeev.pdb

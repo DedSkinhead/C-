@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev 24-25\25pr\25pr\bin\Debug\25pr.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev 24-25\25pr\25pr\bin\Debug\25pr.exe
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev 24-25\25pr\25pr\bin\Debug\25pr.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev 24-25\25pr\25pr\obj\Debug\25pr.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev 24-25\25pr\25pr\obj\Debug\25pr.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev 24-25\25pr\25pr\obj\Debug\25pr.exe
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev 24-25\25pr\25pr\obj\Debug\25pr.pdb

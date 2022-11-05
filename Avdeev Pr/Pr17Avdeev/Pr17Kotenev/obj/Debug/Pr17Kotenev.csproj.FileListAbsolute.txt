@@ -1,0 +1,21 @@
+C:\Users\koten\OneDrive\Рабочий стол\Pr17Kotenev\Pr17Kotenev\bin\Debug\Pr17Kotenev.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Pr17Kotenev\Pr17Kotenev\bin\Debug\Pr17Kotenev.exe
+C:\Users\koten\OneDrive\Рабочий стол\Pr17Kotenev\Pr17Kotenev\bin\Debug\Pr17Kotenev.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Pr17Kotenev\Pr17Kotenev\obj\Debug\Pr17Kotenev.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Pr17Kotenev\Pr17Kotenev\obj\Debug\Pr17Kotenev.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Pr17Kotenev\Pr17Kotenev\obj\Debug\Pr17Kotenev.exe
+C:\Users\koten\OneDrive\Рабочий стол\Pr17Kotenev\Pr17Kotenev\obj\Debug\Pr17Kotenev.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\bin\Debug\Pr17Kotenev.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\bin\Debug\Pr17Kotenev.exe
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\bin\Debug\Pr17Kotenev.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\obj\Debug\Pr17Kotenev.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\obj\Debug\Pr17Kotenev.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\obj\Debug\Pr17Kotenev.exe
+C:\Users\koten\OneDrive\Рабочий стол\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\obj\Debug\Pr17Kotenev.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\bin\Debug\Pr17Kotenev.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\bin\Debug\Pr17Kotenev.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\bin\Debug\Pr17Kotenev.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\obj\Debug\Pr17Kotenev.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\obj\Debug\Pr17Kotenev.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\obj\Debug\Pr17Kotenev.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\Avdeev Pr\Pr17Avdeev\Pr17Kotenev\obj\Debug\Pr17Kotenev.pdb
