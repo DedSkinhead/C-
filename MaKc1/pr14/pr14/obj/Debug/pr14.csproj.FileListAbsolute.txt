@@ -1,0 +1,14 @@
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr14\pr14\bin\Debug\pr14.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr14\pr14\bin\Debug\pr14.exe
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr14\pr14\bin\Debug\pr14.pdb
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr14\pr14\obj\Debug\pr14.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr14\pr14\obj\Debug\pr14.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr14\pr14\obj\Debug\pr14.exe
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr14\pr14\obj\Debug\pr14.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr14\pr14\bin\Debug\pr14.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr14\pr14\bin\Debug\pr14.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr14\pr14\bin\Debug\pr14.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr14\pr14\obj\Debug\pr14.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr14\pr14\obj\Debug\pr14.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr14\pr14\obj\Debug\pr14.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr14\pr14\obj\Debug\pr14.pdb

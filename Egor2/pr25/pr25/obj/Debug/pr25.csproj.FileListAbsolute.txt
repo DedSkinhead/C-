@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr25\pr25\bin\Debug\pr25.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr25\pr25\bin\Debug\pr25.exe
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr25\pr25\bin\Debug\pr25.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr25\pr25\obj\Debug\pr25.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr25\pr25\obj\Debug\pr25.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr25\pr25\obj\Debug\pr25.exe
+C:\Users\koten\OneDrive\Рабочий стол\Egor\pr25\pr25\obj\Debug\pr25.pdb
