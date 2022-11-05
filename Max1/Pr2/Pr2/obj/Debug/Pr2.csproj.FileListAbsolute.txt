@@ -1,0 +1,14 @@
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr2\Pr2\bin\Debug\Pr2.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr2\Pr2\bin\Debug\Pr2.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr2\Pr2\bin\Debug\Pr2.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr2\Pr2\obj\Debug\Pr2.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr2\Pr2\obj\Debug\Pr2.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr2\Pr2\obj\Debug\Pr2.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr2\Pr2\obj\Debug\Pr2.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr2\Pr2\bin\Debug\Pr2.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr2\Pr2\bin\Debug\Pr2.exe
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr2\Pr2\bin\Debug\Pr2.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr2\Pr2\obj\Debug\Pr2.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr2\Pr2\obj\Debug\Pr2.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr2\Pr2\obj\Debug\Pr2.exe
+C:\Users\koten\OneDrive\Рабочий стол\Максим\Pr2\Pr2\obj\Debug\Pr2.pdb
