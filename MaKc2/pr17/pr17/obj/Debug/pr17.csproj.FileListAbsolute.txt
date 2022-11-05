@@ -1,0 +1,14 @@
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr17\pr17\bin\Debug\pr17.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr17\pr17\bin\Debug\pr17.exe
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr17\pr17\bin\Debug\pr17.pdb
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr17\pr17\obj\Debug\pr17.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr17\pr17\obj\Debug\pr17.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr17\pr17\obj\Debug\pr17.exe
+C:\Users\koten\OneDrive\Рабочий стол\MaKc\pr17\pr17\obj\Debug\pr17.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr17\pr17\bin\Debug\pr17.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr17\pr17\bin\Debug\pr17.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr17\pr17\bin\Debug\pr17.pdb
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr17\pr17\obj\Debug\pr17.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr17\pr17\obj\Debug\pr17.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr17\pr17\obj\Debug\pr17.exe
+C:\Users\koten\OneDrive\Рабочий стол\OAiP\MaKc\pr17\pr17\obj\Debug\pr17.pdb
