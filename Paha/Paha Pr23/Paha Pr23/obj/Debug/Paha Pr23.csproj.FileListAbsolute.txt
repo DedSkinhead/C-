@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr23\Paha Pr23\bin\Debug\Paha Pr23.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr23\Paha Pr23\bin\Debug\Paha Pr23.exe
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr23\Paha Pr23\bin\Debug\Paha Pr23.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr23\Paha Pr23\obj\Debug\Paha Pr23.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr23\Paha Pr23\obj\Debug\Paha Pr23.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr23\Paha Pr23\obj\Debug\Paha Pr23.exe
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr23\Paha Pr23\obj\Debug\Paha Pr23.pdb

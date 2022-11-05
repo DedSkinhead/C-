@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr22\Paha Pr22\bin\Debug\Paha Pr22.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr22\Paha Pr22\bin\Debug\Paha Pr22.exe
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr22\Paha Pr22\bin\Debug\Paha Pr22.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr22\Paha Pr22\obj\Debug\Paha Pr22.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr22\Paha Pr22\obj\Debug\Paha Pr22.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr22\Paha Pr22\obj\Debug\Paha Pr22.exe
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha Pr22\Paha Pr22\obj\Debug\Paha Pr22.pdb

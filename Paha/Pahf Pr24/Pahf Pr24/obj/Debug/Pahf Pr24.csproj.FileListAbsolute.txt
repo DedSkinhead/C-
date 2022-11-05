@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Pahf Pr24\Pahf Pr24\bin\Debug\Pahf Pr24.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Pahf Pr24\Pahf Pr24\bin\Debug\Pahf Pr24.exe
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Pahf Pr24\Pahf Pr24\bin\Debug\Pahf Pr24.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Pahf Pr24\Pahf Pr24\obj\Debug\Pahf Pr24.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Pahf Pr24\Pahf Pr24\obj\Debug\Pahf Pr24.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Pahf Pr24\Pahf Pr24\obj\Debug\Pahf Pr24.exe
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Pahf Pr24\Pahf Pr24\obj\Debug\Pahf Pr24.pdb

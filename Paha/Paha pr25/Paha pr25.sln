@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1778
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paha pr25", "Paha pr25\Paha pr25.csproj", "{93F38B52-5012-4F9E-9AE9-4C7968E6A4F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93F38B52-5012-4F9E-9AE9-4C7968E6A4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F38B52-5012-4F9E-9AE9-4C7968E6A4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F38B52-5012-4F9E-9AE9-4C7968E6A4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F38B52-5012-4F9E-9AE9-4C7968E6A4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D5DFE2-C3CE-4551-9F3A-FA79E2889D6E}
+	EndGlobalSection
+EndGlobal

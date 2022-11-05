@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha PR18\Paha PR18\bin\Debug\Paha PR18.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha PR18\Paha PR18\bin\Debug\Paha PR18.exe
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha PR18\Paha PR18\bin\Debug\Paha PR18.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha PR18\Paha PR18\obj\Debug\Paha PR18.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha PR18\Paha PR18\obj\Debug\Paha PR18.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha PR18\Paha PR18\obj\Debug\Paha PR18.exe
+C:\Users\koten\OneDrive\Рабочий стол\Paha\Paha PR18\Paha PR18\obj\Debug\Paha PR18.pdb
