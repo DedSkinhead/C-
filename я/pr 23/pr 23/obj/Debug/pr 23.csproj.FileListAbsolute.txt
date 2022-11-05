@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\я\pr 23\pr 23\bin\Debug\pr 23.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\я\pr 23\pr 23\bin\Debug\pr 23.exe
+C:\Users\koten\OneDrive\Рабочий стол\я\pr 23\pr 23\bin\Debug\pr 23.pdb
+C:\Users\koten\OneDrive\Рабочий стол\я\pr 23\pr 23\obj\Debug\pr 23.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\я\pr 23\pr 23\obj\Debug\pr 23.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\я\pr 23\pr 23\obj\Debug\pr 23.exe
+C:\Users\koten\OneDrive\Рабочий стол\я\pr 23\pr 23\obj\Debug\pr 23.pdb
