@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\palindrom\palindrom\bin\Debug\palindrom.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\palindrom\palindrom\bin\Debug\palindrom.exe
+C:\Users\koten\OneDrive\Рабочий стол\palindrom\palindrom\bin\Debug\palindrom.pdb
+C:\Users\koten\OneDrive\Рабочий стол\palindrom\palindrom\obj\Debug\palindrom.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\palindrom\palindrom\obj\Debug\palindrom.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\palindrom\palindrom\obj\Debug\palindrom.exe
+C:\Users\koten\OneDrive\Рабочий стол\palindrom\palindrom\obj\Debug\palindrom.pdb
