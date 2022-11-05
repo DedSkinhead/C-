@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr14\Pr14\bin\Debug\Pr14.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr14\Pr14\bin\Debug\Pr14.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr14\Pr14\bin\Debug\Pr14.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr14\Pr14\obj\Debug\Pr14.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr14\Pr14\obj\Debug\Pr14.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr14\Pr14\obj\Debug\Pr14.exe
+C:\Users\koten\OneDrive\Рабочий стол\Илья Пр\Pr14\Pr14\obj\Debug\Pr14.pdb
