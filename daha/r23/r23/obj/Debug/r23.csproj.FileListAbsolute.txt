@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\r23\r23\bin\Debug\r23.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\r23\r23\bin\Debug\r23.exe
+C:\Users\koten\OneDrive\Рабочий стол\r23\r23\bin\Debug\r23.pdb
+C:\Users\koten\OneDrive\Рабочий стол\r23\r23\obj\Debug\r23.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\r23\r23\obj\Debug\r23.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\r23\r23\obj\Debug\r23.exe
+C:\Users\koten\OneDrive\Рабочий стол\r23\r23\obj\Debug\r23.pdb

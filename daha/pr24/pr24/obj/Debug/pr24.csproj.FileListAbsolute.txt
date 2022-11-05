@@ -1,0 +1,7 @@
+C:\Users\koten\OneDrive\Рабочий стол\daha\pr24\pr24\obj\Debug\pr24.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\daha\pr24\pr24\obj\Debug\pr24.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\daha\pr24\pr24\bin\Debug\pr24.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\daha\pr24\pr24\bin\Debug\pr24.exe
+C:\Users\koten\OneDrive\Рабочий стол\daha\pr24\pr24\bin\Debug\pr24.pdb
+C:\Users\koten\OneDrive\Рабочий стол\daha\pr24\pr24\obj\Debug\pr24.exe
+C:\Users\koten\OneDrive\Рабочий стол\daha\pr24\pr24\obj\Debug\pr24.pdb
